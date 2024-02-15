@@ -30,9 +30,9 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6">
-            As a skilled developer proficient in React, Next.js, JavaScript,
-            HTML, CSS, Bootstrap, Sass, and Git, I am deeply passionate about
-            frontend development.
+            As a skilled developer proficient in React, Next, JavaScript, HTML,
+            CSS, Bootstrap, Sass and Git, I am deeply passionate about frontend
+            development.
           </p>
           <div>
             <Link
