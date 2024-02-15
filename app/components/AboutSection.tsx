@@ -15,14 +15,14 @@ const TAB_DATA: TabData[] = [
     id: "skills",
     content: (
       <div className="list-disc pl-2">
-        <span className="mr-3">- Next.js</span>
-        <span className="mr-3">- React</span>
-        <span className="mr-3">- Git</span>
-        <span className="mr-3">- SASS</span>
-        <span className="mr-3">- JavaScript</span>
-        <span className="mr-3">- Bootstrap</span>
-        <span className="mr-3">- Css</span>
-        <span className="mr-3">- HTML</span>
+        <span className="mr-3"> Next.js</span>
+        <span className="mr-3"> React</span>
+        <span className="mr-3"> Git</span>
+        <span className="mr-3"> SASS</span>
+        <span className="mr-3"> JavaScript</span>
+        <span className="mr-3"> Bootstrap</span>
+        <span className="mr-3"> Css</span>
+        <span className="mr-3"> HTML</span>
       </div>
     ),
   },
