@@ -1,5 +1,4 @@
 "use client";
-
 import Image from "next/image";
 import Link from "next/link";
 import { TypeAnimation } from "react-type-animation";
@@ -15,13 +14,13 @@ const HeroSection = () => {
             </span>
             <TypeAnimation
               sequence={[
-                "Katerina Spirkoski",
+                "&quot; Katerina Spirkoski &quot;",
                 1000,
-                "Frontend Developer",
+                "&quot; Frontend Developer &quot;",
                 1000,
-                "Web developer",
+                "&quot; Web developer &quot;",
                 1000,
-                "React developer",
+                "&quot; React developer &quot;",
                 1000,
               ]}
               wrapper="span"
