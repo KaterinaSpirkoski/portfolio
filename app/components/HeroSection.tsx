@@ -41,9 +41,12 @@ const HeroSection = () => {
               Hire me!
             </Link>
             <button className=" bg-[#121212] hover:bg-slate-800 rounded-full px-1 py-1 w-full sm:w-fit mt-2 bg-gradient-to-r from-amber-500 to-red-500  ">
-              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
+              <Link
+                href={"https://katerina-cv.tiiny.site/"}
+                className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2"
+              >
                 Download CV
-              </span>
+              </Link>
             </button>
           </div>
         </div>
